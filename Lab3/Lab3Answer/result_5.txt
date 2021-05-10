@@ -1,0 +1,5 @@
+WARNING: Instr_Memory.v:19: $readmemb(CO_test_data5.txt): Not enough words in the file for the requested range [0:31].
+VCD info: dumpfile lab3.vcd opened for output.
+r0 =   0, r1 =   1, r2 =   2, r3 =   3, 
+r4 =   0, r5 =   0, r6 =   0, r7 =   0, 
+r8 =   0, r9 =   0, r10 =  0, r11 =  0
